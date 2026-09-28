@@ -1,0 +1,4 @@
+INTERFACE zif_jev_question PUBLIC.
+  METHODS build
+    RETURNING VALUE(rr_data) TYPE REF TO data.
+ENDINTERFACE.

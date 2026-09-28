@@ -1,0 +1,8 @@
+output/
+node_modules/
+*.log
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
